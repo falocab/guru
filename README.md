@@ -2,7 +2,7 @@
 # **GURU** vBeta
 
 **GURU** es una herramienta que utiliza GPT-ALL de forma local para analizar comandos y errores de terminal.  
-Este proyecto fue concebido en un principio para poder integrarse en contenedores ligeros junto con herramientas a probar, con el objetivo de analizar de forma controlada posibles errores durante su instalación o ejecución. Gracias a su capacidad para lanzar comandos arbitrarios y analizar sus salidas mediante un modelo de inteligencia artificial local, resulta útil como interfaz auxiliar en entornos de testing o troubleshooting.
+Este proyecto fue concebido en un principio para poder integrarse en contenedores ligeros junto con herramientas a probar, con el objetivo de analizar de forma controlada posibles errores durante su instalación o ejecución. Gracias a su capacidad para lanzar comandos arbitrarios y analizar sus salidas mediante un modelo de inteligencia artificial local, resulta útil como interfaz auxiliar en entornos de testing o troubleshooting. Esta recomendada para ejecutar en entornos de prueba y contenedores.
 
 
 **Dependencias**
