@@ -29,13 +29,9 @@ Necesita lo siguiente:
 - cd guru
 - sudo chmod +x setup.sh
 - sudo ./setup.sh
-  
-![imagen](https://github.com/user-attachments/assets/22f94c90-c4c8-4758-b61b-7583c58edfbd)
-
-*Instalación en Ubuntu 24.10*
 
 
-![imagen](https://github.com/user-attachments/assets/edc0939e-e4bc-4519-aa8d-1a7aea8359f8)
+![image](https://github.com/user-attachments/assets/8fab3e31-5764-428f-bffd-2d5ca979be85)
 
 *Instalación en KaliLinux 2024.2*
 
@@ -51,15 +47,10 @@ Sintaxis:
 
 *sudo guru -c "comando a ejecutar" -a "añadir algo a la consulta IA"*
 
-Ejemplos:
-
-`sudo guru -c 'pip install nmap' -a '¿se ha instalado la herramienta?`
-![imagen](https://github.com/user-attachments/assets/fb258370-13f0-45f8-9585-3eca6c0762ba)
-
-*Ejecución en Ubuntu 24.10*
+Ejemplo:
 
 `sudo guru -c "nmap -sV 192.168.80.1" -a "¿que servicios estan corriendo en este host?" `
-![imagen](https://github.com/user-attachments/assets/547c6d08-ca62-4906-886b-2bd730eb69e6)
+![image](https://github.com/user-attachments/assets/16d618d7-7f1e-4f5e-96fa-07a8ddc3a9ae)
 
 *Ejecución en KaliLinux 2024.2*
 
